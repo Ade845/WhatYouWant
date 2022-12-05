@@ -1,0 +1,67 @@
+body {
+  background-color: rgba(239, 194, 31, 0.239);
+}
+
+h1 {
+  color: rgb(140, 9, 248);
+  text-align: center;
+  text-decoration-line: underline;
+  text-decoration-color: blue;
+  font-weight: bold;
+  text-decoration-style: wavy;
+}
+
+h2 {
+  color: blue;
+  text-align: center;
+  text-shadow: 2px 2px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+img {
+  position: relative;
+  left: 70px;
+  border: 3px solid #f6b101b4;
+}
+
+img {
+  border: 1px solid rgb(241, 3, 3);
+  border-radius: 20px;
+  padding: 5px;
+  width: 450px;
+  border-radius: 10%;
+  position: relative;
+  left: 14cm;
+}
+
+button {
+  background: rgb(240, 200, 2);
+  border-radius: 30px;
+  width: 15em;
+  padding: 0.5em;
+  position: relative;
+  left: 18cm;
+  margin: auto;
+}
+
+.tex {
+  color: silver;
+  text-decoration-line: underline;
+  text-decoration-color: silver;
+}
+
+.texx {
+  color: gold;
+  text-decoration: underline;
+  text-decoration-color: gold;
+  text-decoration-style: wavy;
+}
+
+p {
+  color: blueviolet;
+  font-size: 1rem;
+}
+
+h3 {
+  color: red;
+}
